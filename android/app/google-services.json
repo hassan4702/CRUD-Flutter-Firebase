@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220376115063",
+    "project_id": "saffron-sweets-e9001",
+    "storage_bucket": "saffron-sweets-e9001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220376115063:android:fa080d262ce5390287a372",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220376115063-37c9g49guovrd3o7ke6bbm6l43vjm69n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY8h5c6ACpGaVvfEaDdppNLfGJqxzNMLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220376115063-37c9g49guovrd3o7ke6bbm6l43vjm69n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
